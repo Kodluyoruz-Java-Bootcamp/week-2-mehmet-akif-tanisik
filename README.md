@@ -13,28 +13,28 @@ Things to be implemented in the project:
 
 - Layered architecture should be used
 - OOP principles should be applied
-#### Question 1  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/master/src/week2/question1" target="_blank">Solution</a>
+#### Question 1  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question1" target="_blank">Solution</a>
 
 ### Question 2
 Creational Design Patterns should be examined. Explain with examples.
-#### Question 2  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/master/src/week2/question2" target="_blank">Solution</a>
+#### Question 2  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question2" target="_blank">Solution</a>
 
 ### Question 3
 Apply Singleton and Factory patterns to the Emlakcepte application made in the lesson.
 The created objects should be created with these patterns. (We expect it to behave like BeanFactory in Spring)
-#### Question 3  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/master/src/week2/question3" target="_blank">Solution</a>
+#### Question 3  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question3" target="_blank">Solution</a>
 
 ### Question 4
 What are the frameworks for Java and the problems they solve? It should also include Code Sample.
-#### Question 4  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/master/src/week2/question4" target="_blank">Solution</a>
+#### Question 4  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question4" target="_blank">Solution</a>
 
 ### Question 5
 What are the design patterns that Spring framework uses?
-#### Question 5  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/master/src/week2/question5" target="_blank">Solution</a>
+#### Question 5  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question5" target="_blank">Solution</a>
 
 ### Question 6
 Explain the concepts of SOA - Web Service - Restful Service - HTTP methods with examples.
-#### Question 6  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/master/src/week2/question6" target="_blank">Solution</a>
+#### Question 6  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question6" target="_blank">Solution</a>
 
 ### Question 7
 Add the following new features to the Emlakcepte application.
@@ -45,7 +45,7 @@ Add the following new features to the Emlakcepte application.
 - The city showcase consists of 10 advertisements. Create city-based showcases.
 - Find the number of postings in the cities of Istanbul, Ankara, Izmir.
 - Find the number of residential listings for sale in the cities of istanbul, Ankara, Izmir.
-#### Question 7  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/master/src/week2/question7" target="_blank">Solution</a>
+#### Question 7  --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question7" target="_blank">Solution</a>
 
 
 <!-- TECHNOLOGIES -->
