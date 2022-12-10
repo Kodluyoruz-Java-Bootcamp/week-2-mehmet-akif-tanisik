@@ -6,7 +6,7 @@ Creational Design Pattern’lar incelenmelidir. Örneklerle anlatiniz.
 
 ### Answer
 
-### Creational Design Patterns
+### Creational Design Patterns --> <a href="" target="_blank">Code Example</a>
 Bu tasarım kalıpları nesneleri yaratmanın yolu ile ilgilidir. Bu tasarım kalıplarının kullanılacağı kararı sınıfların somut halde oluşturulması
 sırasında olur ve projemizin sınıfları bu kalıpların biriyle oluşturulabilir. Java ile nesne oluşturmanın yolunu biliyoruz örnek olarak:
 
@@ -26,7 +26,7 @@ Kreatif Tasarım Kalıplarının Tipleri:
 - Object Pool Pattern
 
 
-### Factory Method Pattern
+### Factory Method Pattern --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question2/factorypattern" target="_blank">Code Example</a>
 
 Factory Pattern yada Factory Method Pattern'ler açıkça şunu belirtiyorlar, nesne oluşturmamız için interface ve abstract sınıfları tanımlamamız
 gerektiğini fakat oluşturulacak nesnelerin oluşturulma sorumluluğunun türetilmiş sınıflarda olmasını ifade ediyorlar. Başka bir deyişle, türetilmiş
@@ -45,7 +45,7 @@ Factory Method Pattern , Sanal Yapıcı Method (Virtual Constructor) olarak da b
 - Sınıfın alt sınıflardan türetilecek nesnelerin oluşturulmasını belirtmek istediğinde
 - Base sınıfların alt sınıflardan oluşturulacak nesneleri seçmek istediği durumda.
 
-### Abstract Factory Pattern
+### Abstract Factory Pattern --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question2/abstractfactorypattern" target="_blank">Code Example</a>
 
 Abstract Factory Pattern şunu belirtir; somut türetilmiş sınıflar kullanmadan birbiri ile alakalı(bağlantılı) nesne gruplarının oluşturulması için
 interface veya abstract sınıfların oluşturulmasını söylemektedir. Aslında bu Abstract Factory nin tek bir sınıfı bir fabrika görevi görecek şekilde
@@ -64,7 +64,7 @@ oluşturulmasını ifade eder. Bu yüzden bu tasarım kalıbını Factory Method
 - Sistemin birden çok nesne ailesinden biriyle yapılandırılması gerektiğinde.
 
 
-### Singleton Pattern
+### Singleton Pattern --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question2/singletonpattern" target="_blank">Code Example</a>
 
 Singleton Pattern şunu belirtir; sadece bir örnek oluşturulabilecek bir sınıfımızın olduğunu düşünün ve bu objeye küresel anlamda erişim
 sağlanarak kullanılmasından bahseder. Başka bir deyişle bir sınıf tek bir örneğin oluşturulmasını ve tek bir nesnenin diğer tüm sınıflar
@@ -82,7 +82,7 @@ tarafından kullanılmasını sağlamalıdır.
 - Bu tasarım kalıbı çoğunlukla çok görevli uygulamalarda ve veritabı uygulamalarında kullanılır. Loglamada, catchlemede, görev havuzlarında,
   konfigürasyon ayarlarında kullanılır.
 
-### Prototype Pattern
+### Prototype Pattern --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question2/prototypepattern" target="_blank">Code Example</a>
 
 Prototype Pattern yeni bir nesne oluşturmak yerine mevcut bir nesnenin klonlanmasının ve ihtiyaca göre özelleştirilebileceğini ifade eder.
 Yeni bir nesne oluşturmanın maliyeti pahalı ve yoğun kaynak gerektiriyorsa bu model izlenmelidir.
@@ -100,7 +100,7 @@ Yeni bir nesne oluşturmanın maliyeti pahalı ve yoğun kaynak gerektiriyorsa b
 - İstemci uygulamasının nesne oluşturma ve temsilden habersiz olması gerektiğinde.
 
 
-### Builder Pattern
+### Builder Pattern --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question2/builderpattern" target="_blank">Code Example</a>
 
 Builder Pattern  karmaşık nesnelerin oluşturulması için adım adım daha basit nesnelerin oluşturulup sonunda karmaşık olan nesnenin oluşturulmasını
 ifade eder. Çoğunlukla karmaşık bir nesnenin seri hale getirilmesinde olduğu gibi, nesne tek adımda oluşturulamadığında kullanılır.
@@ -113,7 +113,7 @@ ifade eder. Çoğunlukla karmaşık bir nesnenin seri hale getirilmesinde olduğ
 
 
 
-### Object Pool Pattern
+### Object Pool Pattern --> <a href="https://github.com/Kodluyoruz-Java-Bootcamp/week-2-mehmet-akif-tanisik/tree/main/src/week2/question2/objectpoolpattern" target="_blank">Code Example</a>
 
 Genellikle, program geliştirme ve nesne oluşturulmasında anahtar sorun performans olabiliyor.Bu da aslında karşımıza maliyet olarak çıkıyor.
 Object Pool Pattern şunu ifade ediyor, oluşturulması maliyetli olan nesnelerin yeniden kullanılması.

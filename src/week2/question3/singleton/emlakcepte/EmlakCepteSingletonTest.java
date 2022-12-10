@@ -3,7 +3,7 @@ package week2.question3.singleton.emlakcepte;
 import week2.question3.singleton.emlakcepte.service.RealtyService;
 import week2.question3.singleton.emlakcepte.service.UserService;
 
-public class Main {
+public class EmlakCepteSingletonTest {
 
 
     public static void main(String[] args) {

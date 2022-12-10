@@ -6,10 +6,8 @@ import week2.question3.factorypattern.emlakcepte.interfaces.IRealtyService;
 import week2.question3.factorypattern.emlakcepte.interfaces.IUserService;
 import week2.question3.factorypattern.emlakcepte.model.Realty;
 import week2.question3.factorypattern.emlakcepte.model.User;
-import week2.question3.singleton.emlakcepte.service.RealtyService;
-import week2.question7.emlakcepte.service.UserService;
 
-public class Main {
+public class EmlakCepteFactoryTest {
 
 
     public static void main(String[] args) {
