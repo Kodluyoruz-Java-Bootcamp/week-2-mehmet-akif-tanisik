@@ -20,9 +20,6 @@ Emlakcepte uygulamasına aşağıdaki yeni özellikleri ekleyin.
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-
-
 <!-- CONTACT -->
 ## Contact
 
