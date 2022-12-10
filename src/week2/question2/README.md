@@ -6,7 +6,7 @@ Creational Design Pattern’lar incelenmelidir. Örneklerle anlatiniz.
 
 ### Answer
 
-### Creational Design Patterns --> <a href="" target="_blank">Code Example</a>
+### Creational Design Patterns
 Bu tasarım kalıpları nesneleri yaratmanın yolu ile ilgilidir. Bu tasarım kalıplarının kullanılacağı kararı sınıfların somut halde oluşturulması
 sırasında olur ve projemizin sınıfları bu kalıpların biriyle oluşturulabilir. Java ile nesne oluşturmanın yolunu biliyoruz örnek olarak:
 
